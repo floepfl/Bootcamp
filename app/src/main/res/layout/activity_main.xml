@@ -18,7 +18,6 @@
 
     <EditText
         android:id="@+id/mainName"
-        style="@android:style/Widget.Material.Light.AutoCompleteTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
