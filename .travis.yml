@@ -7,7 +7,7 @@ android:
     - android-28
     # The SDK version used by the system image
     - android-22
-    # The system image, to run an emulator during the tests
+    # The system image, to run an emulator during the test
     - sys-img-armeabi-v7a-android-22
 before_script:
   # Emulator Management: Create, Start and Wait
